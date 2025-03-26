@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**SHOGHLIREZA/SHOGHLIREZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Reza**, and I'm learning to become a **Full Stack Developer**. I recently started my journey at [**Business College Helsinki**](https://www.bc.fi), where I'm learning web development and **WordPress**.
 
-Here are some ideas to get you started:
+## 📚 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full Stack Development (Frontend & Backend)
+- WordPress (Website building and customization)
+
+## 📈 My Goal
+
+To become a skilled **Full Stack Developer** and master **WordPress**.
+
+
+
